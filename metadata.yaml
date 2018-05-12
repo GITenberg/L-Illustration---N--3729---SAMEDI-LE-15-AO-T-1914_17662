@@ -1,0 +1,28 @@
+_repo: L-Illustration---N--3729---SAMEDI-LE-15-AO-T-1914_17662
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17662-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: L'Illustration
+gutenberg_issued: '2006-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17662'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Illustrated periodicals -- France'
+title: L'Illustration, No. 3729, 15 Août 1914
+url: http://www.gutenberg.org/ebooks/17662
