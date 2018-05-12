@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17662#L-Illustration---N--3729---SAMEDI-LE-15-AO-T-1914
 gutenberg_bookshelf: L'Illustration
 gutenberg_issued: '2006-02-02'
 gutenberg_type: Text
